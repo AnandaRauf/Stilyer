@@ -8,6 +8,6 @@ Requirement :
 - Download pip : https://pypi.org/project/pip/
 
 How to use :
-- Edit script stilyer.py in def function chf : choose your file python.
+- Edit script stilyer.py in def function chfd and chfl : change choose your folder and file python.
 - Open Script Stilyer, and press F5 / Open your cmd typing py stilyer.py
 
