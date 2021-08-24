@@ -35,8 +35,8 @@ class ChFl():
 		print("Successfull choose file")
 class CSIns():
 	def csins(self):
-		ChFd.chfd()
-		ChFl.chfl()
+		chofd = ChFd()
+		chofl = ChFl()
 		print("Successfull Create Setup Installation")
 		print("Thank you using Stilyer ^-^")
 Menu.menu()
