@@ -37,12 +37,12 @@ class CSIns():
 		ChFl.chfl()
 		print("Successfull Create Setup Installation")
 		print("Thank you using Stilyer ^-^")
-
+Menu.menu()
 CHFD = ChFd()
 CHFL = ChFl()
 CSINS = CSIns()
 
-chm = int(input("Please choose number on menu Stilyer"))
+chm = int(input("Please choose number on menu Stilyer:"))
 
 if chm== 1:
 	CHFD.chfd()
